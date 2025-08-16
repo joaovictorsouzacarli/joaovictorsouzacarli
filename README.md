@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU_ID_AQUI" width="150px" style="border-radius: 50%"/>
-</p>
-
 <h1 align="center">Olá, tudo bem? 👋</h1>
 
 <p align="center">
