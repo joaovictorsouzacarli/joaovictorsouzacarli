@@ -12,7 +12,13 @@
 
 ## 🧠 Sobre mim
 
-Sou João Victor de Souza da Costa, Engenheiro de Energia formado pela UNESP, com um grande interesse por dados e automação. Tenho experiência com ferramentas de análise e visualização, e estou sempre em busca de soluções eficientes e sustentáveis.
+Sou formado em Engenharia de Energia pela Universidade Estadual Paulista (UNESP), onde participei de pesquisas em Densificação Energética com foco em briquetagem de resíduos agroindustriais, integrando o grupo de iniciação científica BioJoule.
+
+Atuo há mais de 4 anos no setor elétrico, com sólida experiência em atendimento ao cliente — incluindo franquias, integradores e clientes finais — prestando suporte técnico, acompanhando homologações, tirando dúvidas regulatórias e garantindo uma jornada eficiente do início ao fim.
+
+Nesse período, desenvolvi mais de 5.000 projetos de micro e minigeração distribuída, atuando diretamente em dimensionamento, homologação e proteção de sistemas solares comerciais, residenciais e usinas de grande porte. Tenho especialidade na elaboração de layouts executivos e domínio de ferramentas como PVsyst, Power BI, SQL e DBeaver para análise de dados e otimização de performance energética.
+
+Sou um profissional comprometido com a qualidade técnica, o bom relacionamento com o cliente e atento às inovações do setor de energia renovável.
 
 ---
 
