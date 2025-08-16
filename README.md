@@ -6,6 +6,8 @@ Meu nome é João Victor de Souza Carli, sou Engenheiro de Energia formado pela 
 👷‍♂️ Formado em Engenharia de Energia pela UNESP - Campus de Rosana;
 🌞 Especialista em Geração distribuída com um acervo de +4000 projetos elaborados em diversas distribuidoras do brasil;
 📚 Constante aprendizado no setor de análise dados envolvendo: Power BI, pandas, numpy e python.
+📚 Graduação em desenvolvimento na FATEC com o curso Análise e Desenvolvimento de Sistemas.
+
 
 ### Teck Stack:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -14,7 +16,7 @@ Meu nome é João Victor de Souza Carli, sou Engenheiro de Energia formado pela 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![HTML](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>)
 
 ### Contatos:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-souza-carli-979403196/)
