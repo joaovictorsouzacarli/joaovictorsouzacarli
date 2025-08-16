@@ -47,8 +47,8 @@ Sou um profissional comprometido com a qualidade técnica, o bom relacionamento 
 
 ## 📊 GitHub Stats
 
-![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovicenssouza&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovicenssouza&theme=tokyonight&hide_border=true)
+![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovictorsouzacarli&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovictorsouzacarli&theme=tokyonight&hide_border=true)
 
 ---
 
