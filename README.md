@@ -22,6 +22,6 @@ Engenheiro e Desenvolvedor com foco em soluções web, automação e sistemas in
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovictorsouzacarli&show_icons=true&theme=radial" alt="Estatísticas GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsouzacarli&layout=compact&theme=radial" alt="Linguagens Mais Utilizadas" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=joaovictorsouzacarli&show_icons=true&theme=dark" alt="Estatísticas GitHub" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaovictorsouzacarli&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="150"/>
 </p>
