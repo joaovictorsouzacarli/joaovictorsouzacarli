@@ -35,6 +35,3 @@ Engenheiro e Desenvolvedor com foco em soluções web, automação e sistemas in
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaovictorsouzacarli&color=0077B5&style=flat-square&label=Visitas+ao+Perfil" alt="Contador de Visitas" />
-</p>
