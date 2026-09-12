@@ -3,8 +3,15 @@
 Engenheiro e Desenvolvedor com foco em soluções web, automação e sistemas inteligentes.
 
 - 🔭 Atualmente desenvolvendo o **ProSenior** e aplicações de monitoramento solar.
-- 🛠️ Tecnologias: JavaScript (Node.js), Python, HTML5, CSS3, Git & GitHub.
-- ⚡ Interesses: Automação de processos, APIs REST e desenvolvimento de software.
+- 🎓 Atuando em consultorias de engenharia, docência e projetos de software.
+- 💬 Pergunte-me sobre: **Energia Solar, Automação de Processos, APIs REST e Node.js**.
+
+---
+
+### 📬 Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-souza-carli-979403196/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.joaovictor/)
 
 ---
 
@@ -24,4 +31,10 @@ Engenheiro e Desenvolvedor com foco em soluções web, automação e sistemas in
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=joaovictorsouzacarli&show_icons=true&theme=dark" alt="Estatísticas GitHub" height="150"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaovictorsouzacarli&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaovictorsouzacarli&color=0077B5&style=flat-square&label=Visitas+ao+Perfil" alt="Contador de Visitas" />
 </p>
